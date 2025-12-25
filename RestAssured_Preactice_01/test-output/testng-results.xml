@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-25T22:24:01 IST" name="Suite" finished-at="2025-12-25T22:24:05 IST" duration-ms="3750">
+    <groups>
+    </groups>
+    <test started-at="2025-12-25T22:24:01 IST" name="Test" finished-at="2025-12-25T22:24:05 IST" duration-ms="3750">
+      <class name="Practice.SampleGET_POST_PUT_DELETE">
+        <test-method is-config="true" signature="GenerateReports()[pri:0, instance:Practice.SampleGET_POST_PUT_DELETE@67d48005]" started-at="2025-12-25T22:24:01 IST" name="GenerateReports" finished-at="2025-12-25T22:24:01 IST" duration-ms="531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GenerateReports -->
+        <test-method signature="GET_StatusCode()[pri:1, instance:Practice.SampleGET_POST_PUT_DELETE@67d48005]" started-at="2025-12-25T22:24:01 IST" name="GET_StatusCode" finished-at="2025-12-25T22:24:04 IST" duration-ms="2519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GET_StatusCode -->
+        <test-method signature="POST_StatusCode()[pri:2, instance:Practice.SampleGET_POST_PUT_DELETE@67d48005]" started-at="2025-12-25T22:24:04 IST" name="POST_StatusCode" finished-at="2025-12-25T22:24:04 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- POST_StatusCode -->
+        <test-method is-config="true" signature="closereport()[pri:0, instance:Practice.SampleGET_POST_PUT_DELETE@67d48005]" started-at="2025-12-25T22:24:04 IST" name="closereport" finished-at="2025-12-25T22:24:05 IST" duration-ms="528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closereport -->
+      </class> <!-- Practice.SampleGET_POST_PUT_DELETE -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
